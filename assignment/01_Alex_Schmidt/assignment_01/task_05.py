@@ -15,4 +15,4 @@ elif x == y or x == z or y == z: # Checks for isoscale triangles
   print("The triangle is isoscele")
 
 elif x != y != z: # Checks for scalene triangles
-  print("The triangle is scalene")
+  print("The triangle is scalene") 
